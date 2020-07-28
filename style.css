@@ -68,7 +68,7 @@ hr {
 .mainHead {
     width: 100%;
     height: 100vh;
-    background-image: url(/bootstrap2/master/IMG/bg-masthead.jpg);
+    background-image: url(https://raw.githubusercontent.com/muktiupadhyaytgit/bootstrap2/master/IMG/bg-masthead.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
